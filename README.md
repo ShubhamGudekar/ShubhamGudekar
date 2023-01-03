@@ -15,10 +15,10 @@
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
         
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ShubhamGudekar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ShubhamGudekar">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=gotham&hide_border=false" />
 </a>
 </br>
