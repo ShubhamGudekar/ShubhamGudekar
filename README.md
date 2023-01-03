@@ -16,10 +16,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
         
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&card_width=475" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&card_width=400" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=gotham&hide_border=false&card_width=450" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=gotham&hide_border=false&card_width=400" />
 </a>
 </br>
 </br>
