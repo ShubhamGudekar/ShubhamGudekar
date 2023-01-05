@@ -13,14 +13,11 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10)
+![](http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&langs_count=10)
         
-<a href="https://github.com/ShubhamGudekar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=false&count_private=true" />
-</a>
-<a href="https://github.com/ShubhamGudekar">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=dark&hide_border=false" />
-</a>
+![](http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=dark&hide_border=false)
+
 </br>
 </br>
 
