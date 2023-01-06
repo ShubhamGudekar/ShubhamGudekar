@@ -31,9 +31,11 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=transparent&hide_border=false)    
-|![](http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&card_width=400) |![](http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)|
+|![](http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&card_width=400) |![](http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10)|
 | ------------- | ------------- |
 
 ## ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+&nbsp;
+</br>
 </div>
