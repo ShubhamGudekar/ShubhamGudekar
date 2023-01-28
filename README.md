@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/ShubhamGudekar/BEPb/master/assets/Bottom_up.svg"/>
+![](Assets/Bottom_up.svg)
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Shubham+Gudekar;+Welcome+to+My+Profile!;I’m+interested+in+becoming+Full+Stack+Developer;I’m+currently+Pursuing+PG-DAC+from+IACSD,+Pune+;I’m+looking+to+collaborate+on+Project+Development+and+Testing;Always+learning+new+things+😁)](https://git.io/typing-svg)
@@ -40,6 +40,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&show_icons=true" />
 </picture>
 
+
+
 <picture>
 <source 
   srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400"
@@ -53,19 +55,22 @@
 </picture>
 
 
+
 <picture>
 <source 
-  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&exclude_repo=dotnet"
+  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&border_color=000000&exclude_repo=dotnet"
+  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10&border_color=000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10" />
 </picture>
 
-[![ShubhamGudekar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamGudekar&theme=github-compact)](https://github.com/ShubhamGudekar/github-readme-activity-graph)
+
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamGudekar&theme=github-compact)
 
 ## ✍️ Quote
 <picture>
@@ -84,10 +89,11 @@
 
 
 ## 📫 How to Reach me:
-<a href="https://linkedin.com/in/gudekarshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/ShubhamGudekar/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:gudekarshubham@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/ShubhamGudekar/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://wa.me/918087226422" alt="Connect on Whatsapp"> <img align="center" src="https://raw.githubusercontent.com/ShubhamGudekar/BEPb/master/assets/WhatsApp.png" height="28" width="28" /> </a>
+<a href="https://linkedin.com/in/gudekarshubham" target="blank"><img align="center" src="Assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+<a href="mailto:gudekarshubham@gmail.com" target="blank"><img align="center" src="Assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://wa.me/918087226422" alt="Connect on Whatsapp"> <img align="center" src="Assets/WhatsApp.png" height="28" width="28" /> </a>
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamGudekar" alt="visitors"/>
 
+![](Assets/Bottom_down.svg)
 </div>
