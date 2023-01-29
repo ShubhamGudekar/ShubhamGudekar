@@ -30,11 +30,11 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=dark&hide_border=false"
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=dark&hide_border=false&show_icons=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=graywhite&hide_border=false&border=000000"
+  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=graywhite&hide_border=false&border=000000&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&show_icons=true" />
@@ -44,11 +44,11 @@
 
 <picture>
 <source 
-  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&card_width=400&hide=contribs&line_height=24"
+  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&card_width=400&hide=contribs&line_height=24&show_icons=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&card_width=400&border_color=000000&hide=contribs&line_height=24"
+  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&card_width=400&border_color=000000&hide=contribs&line_height=24&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&show_icons=true" />
@@ -58,11 +58,11 @@
 
 <picture>
 <source 
-  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6"
+  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&show_icons=true"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&border_color=000000"
+  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&border_color=000000&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="http://github-readme-stats-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" />
