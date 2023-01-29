@@ -44,11 +44,11 @@
 
 <picture>
 <source 
-  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=400&hide=contribs"
+  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&card_width=400&hide=contribs&line_height=24"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&card_width=400&border_color=000000&hide=contribs"
+  srcset="http://github-readme-stats-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&card_width=400&border_color=000000&hide=contribs&line_height=24"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&show_icons=true" />
