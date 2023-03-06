@@ -1,9 +1,17 @@
-![](Assets/Bottom_up.svg)
+<!-- ![](Assets/Bottom_up.svg) -->
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Shubham+Gudekar;+Welcome+to+My+Profile!;I’m+interested+in+becoming+Full+Stack+Developer;I’m+currently+Pursuing+PG-DAC+from+IACSD,+Pune+;I’m+looking+to+collaborate+on+Project+Development+and+Testing;Always+learning+new+things+😁)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Shubham+Gudekar;+Welcome+to+My+Profile!;I’m+interested+in+becoming+Full+Stack+Developer;I’m+currently+Pursuing+PG-DAC+from+IACSD,+Pune+;I’m+looking+to+collaborate+on+Project+Development+and+Testing;Always+learning+new+things+😁)](https://git.io/typing-svg)
 
-
+ -->
+ ## 💫 About Me
+- 👋 Hi, I’m @ShubhamGudekar<br>
+- 👀 I’m interested in becoming Full Stack Developer<br>
+- 🌱 Completed PG-DAC from Institute for Advanced Computing & Software Development, Pune<br>
+- 💞️ I’m looking to collaborate on Project Development and Testing 😁<br>
+- ✨ Always learning new things.
+ 
+ 
 <div align="center">
 
 ## 💻 Tech Stack
@@ -70,8 +78,8 @@
 
 
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamGudekar&theme=github-compact&include_all_commits=true&count_private=true)
-
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamGudekar&theme=github-compact&include_all_commits=true&count_private=true)
+ -->
 ## ✍️ Quote
 <picture>
 <source 
