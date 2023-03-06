@@ -5,11 +5,11 @@
 
  -->
  ## 💫 About Me
-- 👋 Hi, I’m @ShubhamGudekar<br>
-- 👀 I’m interested in becoming Full Stack Developer<br>
-- 🌱 Completed PG-DAC from Institute for Advanced Computing & Software Development, Pune<br>
-- 💞️ I’m looking to collaborate on Project Development and Testing 😁<br>
-- ✨ Always learning new things.
+👋 Hi, I’m @ShubhamGudekar<br>
+👀 I’m interested in becoming Full Stack Developer<br>
+🌱 Completed PG-DAC from Institute for Advanced Computing & Software Development, Pune<br>
+💞️ I’m looking to collaborate on Project Development and Testing 😁<br>
+✨ Always learning new things.
  
  
 <div align="center">
