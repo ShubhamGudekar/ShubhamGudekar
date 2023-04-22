@@ -99,7 +99,7 @@
 ## 📫 How to Reach me:
 <a href="https://linkedin.com/in/gudekarshubham" target="blank"><img align="center" src="Assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:gudekarshubham@gmail.com" target="blank"><img align="center" src="Assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://wa.me/918087226422" alt="Connect on Whatsapp"> <img align="center" src="Assets/WhatsApp.png" height="28" width="28" /> </a>
+<!-- <a href="https://wa.me/91" alt="Connect on Whatsapp"> <img align="center" src="Assets/WhatsApp.png" height="28" width="28" /> </a> -->
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamGudekar" alt="visitors"/>
 
