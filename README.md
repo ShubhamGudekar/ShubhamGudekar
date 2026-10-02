@@ -4,7 +4,7 @@
 🏗️ Currently building event-driven microservices with Spring Boot, Kafka and Docker.<br>
 🧪 2.5 years of writing test automation that runs on every build taught me to care about reliability.<br>
 ⚡ Before software, I spent 4+ years on SCADA and substation-automation projects.<br>
-📄 Online resume: <a href="https://shubhamgudekar.github.io/Resume/">shubhamgudekar.github.io/Resume</a><br>
+📄 Online resume: <a href="https://gudekarshubham.github.io/">gudekarshubham.github.io</a><br>
 
 <div align="center">
 
@@ -25,34 +25,34 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [LMS-SpringBoot-Microservices](https://github.com/ShubhamGudekar/LMS-SpringBoot-Microservices) | Library management system: three Spring Boot services that share data through Kafka events (in progress) | Java 17, Spring Boot 3, Kafka, MySQL, Docker |
-| [Ghar-Ka-Dabba](https://github.com/ShubhamGudekar/Ghar-Ka-Dabba) | Tiffin subscription platform (PG-DAC capstone): REST APIs, JWT auth with Spring Security, email OTP | Spring Boot, Spring Security, MySQL, React |
-| [Task-Management-Backend](https://github.com/ShubhamGudekar/Task-Management-Backend) | Task management REST API with JWT-protected routes | Go, Gin, GORM, PostgreSQL |
+| [LMS-SpringBoot-Microservices](https://github.com/gudekarshubham/LMS-SpringBoot-Microservices) | Library management system: three Spring Boot services that share data through Kafka events (in progress) | Java 17, Spring Boot 3, Kafka, MySQL, Docker |
+| [Ghar-Ka-Dabba](https://github.com/gudekarshubham/Ghar-Ka-Dabba) | Tiffin subscription platform (PG-DAC capstone): REST APIs, JWT auth with Spring Security, email OTP | Spring Boot, Spring Security, MySQL, React |
+| [Task-Management-Backend](https://github.com/gudekarshubham/Task-Management-Backend) | Task management REST API with JWT-protected routes | Go, Gin, GORM, PostgreSQL |
 
 ## 📊 GitHub Stats
 
 <picture>
 <source
-  srcset="https://streak-stats.demolab.com/?user=ShubhamGudekar&theme=dark&hide_border=false"
+  srcset="https://streak-stats.demolab.com/?user=gudekarshubham&theme=dark&hide_border=false"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://streak-stats.demolab.com/?user=ShubhamGudekar&theme=graywhite&hide_border=false&border=000000"
+  srcset="https://streak-stats.demolab.com/?user=gudekarshubham&theme=graywhite&hide_border=false&border=000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://streak-stats.demolab.com/?user=ShubhamGudekar&hide_border=false" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=gudekarshubham&hide_border=false" alt="GitHub streak" />
 </picture>
 
 <picture>
 <source
-  srcset="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6"
+  srcset="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=gudekarshubham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&border_color=000000"
+  srcset="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=gudekarshubham&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&border_color=000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Most used languages" />
+<img src="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=gudekarshubham&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Most used languages" />
 </picture>
 
 ## ✍️ Quote
