@@ -70,6 +70,7 @@
 ## 📫 How to Reach Me
 <a href="https://linkedin.com/in/gudekarshubham" target="blank"><img align="center" src="Assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="mailto:gudekarshubham@gmail.com" target="blank"><img align="center" src="Assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<a href="https://shubhamgudekar.github.io/Resume/" target="blank"><img align="center" src="https://img.shields.io/badge/online%20resume-%238fd3ff.svg?style=for-the-badge&logo=githubpages&logoColor=black" alt="Online resume" height="30" /></a>
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamGudekar" alt="visitors"/>
 
