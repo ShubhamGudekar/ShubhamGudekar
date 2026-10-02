@@ -1,77 +1,62 @@
-<!-- ![](Assets/Bottom_up.svg) -->
+## 💫 About Me
+👋 Hi, I'm Shubham, a Software Engineer at Accops Systems in Pune.<br>
+☕ I work mostly in Java: Spring Boot on the backend, Selenium and TestNG for test automation, Jenkins for CI/CD.<br>
+🏗️ Currently building event-driven microservices with Spring Boot, Kafka and Docker.<br>
+🧪 2.5 years of writing test automation that runs on every build taught me to care about reliability.<br>
+⚡ Before software, I spent 4+ years on SCADA and substation-automation projects.<br>
 
-<!--   my-ticker -->    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=false&vCenter=true&width=700&lines=Hi+there+👋,+I+am+Shubham+Gudekar;+Welcome+to+My+Profile!;I’m+interested+in+becoming+Full+Stack+Developer;I’m+currently+Pursuing+PG-DAC+from+IACSD,+Pune+;I’m+looking+to+collaborate+on+Project+Development+and+Testing;Always+learning+new+things+😁)](https://git.io/typing-svg)
-
- -->
- ## 💫 About Me
-👋 Hi, I’m @ShubhamGudekar<br>
-👀 I’m passionate about backend development<br>
-🌱 Completed PG-DAC from Institute for Advanced Computing & Software Development, Pune<br>
-💼 Currently working as a software engineer at Accops Systems Pvt. Ltd.<br>
-💞️ I’m eager to collaborate on Project Development and Testing 😁<br>
-✨ Always exploring and expanding my skills.<br>
-
- 
 <div align="center">
 
 ## 💻 Tech Stack
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring%20boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%2359666C.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/apache%20kafka-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [LMS-SpringBoot-Microservices](https://github.com/ShubhamGudekar/LMS-SpringBoot-Microservices) | Library management system: three Spring Boot services that share data through Kafka events (in progress) | Java 17, Spring Boot 3, Kafka, MySQL, Docker |
+| [Ghar-Ka-Dabba](https://github.com/ShubhamGudekar/Ghar-Ka-Dabba) | Tiffin subscription platform (PG-DAC capstone): REST APIs, JWT auth with Spring Security, email OTP | Spring Boot, Spring Security, MySQL, React |
+| [Task-Management-Backend](https://github.com/ShubhamGudekar/Task-Management-Backend) | Task management REST API with JWT-protected routes | Go, Gin, GORM, PostgreSQL |
 
 ## 📊 GitHub Stats
 
 <picture>
-<source 
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=dark&hide_border=false&show_icons=true"
+<source
+  srcset="https://streak-stats.demolab.com/?user=ShubhamGudekar&theme=dark&hide_border=false"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-streak-stats.herokuapp.com/?user=ShubhamGudekar&theme=graywhite&hide_border=false&border=000000&show_icons=true"
+  srcset="https://streak-stats.demolab.com/?user=ShubhamGudekar&theme=graywhite&hide_border=false&border=000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&show_icons=true" />
+<img src="https://streak-stats.demolab.com/?user=ShubhamGudekar&hide_border=false" alt="GitHub streak" />
 </picture>
-
-
 
 <picture>
-<source 
-  srcset="http://github-readme-stats-git-master-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&card_width=400&hide=contribs&line_height=24&show_icons=true"
+<source
+  srcset="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="http://github-readme-stats-git-master-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&card_width=400&border_color=000000&hide=contribs&line_height=24&show_icons=true"
+  srcset="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&border_color=000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api?username=ShubhamGudekar&show_icons=true" />
+<img src="https://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" alt="Most used languages" />
 </picture>
 
-
-
-<picture>
-<source 
-  srcset="http://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&show_icons=true"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="http://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6&border_color=000000&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="http://github-readme-stats-git-master-shubhamgudekar.vercel.app/api/top-langs/?username=ShubhamGudekar&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=6" />
-</picture>
-
-
-
-<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=ShubhamGudekar&theme=github-compact&include_all_commits=true&count_private=true)
- -->
 ## ✍️ Quote
 <picture>
-<source 
+<source
   srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
@@ -79,16 +64,12 @@
   srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite&border_color=000000"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamGudekar&show_icons=true" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Programming quote" />
 </picture>
 
-
-
-
-## 📫 How to Reach me:
-<a href="https://linkedin.com/in/gudekarshubham" target="blank"><img align="center" src="Assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
+## 📫 How to Reach Me
+<a href="https://linkedin.com/in/gudekarshubham" target="blank"><img align="center" src="Assets/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
 <a href="mailto:gudekarshubham@gmail.com" target="blank"><img align="center" src="Assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<!-- <a href="https://wa.me/91" alt="Connect on Whatsapp"> <img align="center" src="Assets/WhatsApp.png" height="28" width="28" /> </a> -->
 
 <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ShubhamGudekar" alt="visitors"/>
 
